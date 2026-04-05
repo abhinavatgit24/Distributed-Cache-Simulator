@@ -1,0 +1,10 @@
+# Java
+target/
+*.class
+
+# Node
+node_modules/
+dist/
+
+# Misc
+.env
